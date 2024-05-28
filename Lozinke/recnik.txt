@@ -1,0 +1,9 @@
+r, IGRA
+r, BIBLIoteka
+r, jezik
+l, BIBLIOTEKA2
+r, bogdan
+l, mama3
+r, tata
+r, mama
+l, avion

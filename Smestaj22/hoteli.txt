@@ -1,0 +1,4 @@
+Super Premium Hotel, P, 1300, 8.6, 950, 9.0, 1250, 9.4
+Premium Hotel, P, 700, 8.1, 1000, 8.9
+Najobicniji Hotel, 50, 100
+Obican Hotel, 200, 300, 400

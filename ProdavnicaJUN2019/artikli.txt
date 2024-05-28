@@ -1,0 +1,7 @@
+101, Hleb (beli), 65
+102, Hleb (crni), 95
+122, Cokolada, 349.99, 5 za 3, 25/05
+312, Voda, 50.5
+896, Sir, 845, 30%, 26/05
+785, Sveze mleko, 143.56, 25%, 01/06
+411, Sok od jabuke, 90, 3 za 2, 26/05
